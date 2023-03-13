@@ -1,2 +1,2 @@
-# Armstrong
+# Armstrong numbers
 Geeksforgeeks
